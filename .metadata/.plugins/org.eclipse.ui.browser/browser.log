@@ -1,0 +1,8 @@
+
+Mar 06, 2024 07:37:16.43 NEW SESSION
+Mar 06, 2024 07:37:16.43 [21132:3516:0306/073716.432:ERROR:policy_logger.cc(157)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+Mar 06, 2024 07:37:21.25 [21132:3516:0306/073721.251:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/-wTRHV-EM6UUnbvwUyPNvL3688U.br.js (2)
+Mar 06, 2024 07:37:21.27 [21132:3516:0306/073721.275:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/-wTRHV-EM6UUnbvwUyPNvL3688U.br.js (2)
+
+Mar 06, 2024 20:23:44.06 NEW SESSION
+Mar 06, 2024 20:23:44.07 [16676:14744:0306/202344.062:ERROR:device_event_log_impl.cc(214)] [20:23:44.062] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)

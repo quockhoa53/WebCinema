@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Tue Apr 16 22:34:41 ICT 2024
+org.eclipse.jst.jee.server\:/binary\:D\:\\Eclipse\ IDE\\PTITHCMS1L6\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.0.1.RELEASE.jar=WEB-INF/lib/spring-web-4.0.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Eclipse\ IDE\\TEST\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.0.1.RELEASE.jar=WEB-INF/lib/spring-web-4.0.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Eclipse\ IDE\\Cinema\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.0.1.RELEASE.jar=WEB-INF/lib/spring-web-4.0.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Eclipse\ IDE\\PTITHCMS1L1\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.0.1.RELEASE.jar=WEB-INF/lib/spring-web-4.0.1.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\Eclipse\ IDE\\DoAnWebCinema\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.0.1.RELEASE.jar=WEB-INF/lib/spring-web-4.0.1.RELEASE.jar

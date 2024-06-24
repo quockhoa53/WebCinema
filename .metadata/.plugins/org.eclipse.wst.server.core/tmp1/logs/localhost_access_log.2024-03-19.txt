@@ -1,0 +1,11 @@
+127.0.0.1 - - [19/Mar/2024:23:00:50 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:00:51 +0700] "GET /PTITHCMS1L1/ HTTP/1.1" 200 194
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:00:51 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:01:00 +0700] "GET /PTITHCMS1L1/student/index.htm HTTP/1.1" 200 699
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:01:00 +0700] "GET /PTITHCMS1L1/images/ptithcm-sv2.png HTTP/1.1" 200 102970
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:01:00 +0700] "GET /PTITHCMS1L1/images/ptithcm-sv3.png HTTP/1.1" 200 46728
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:01:00 +0700] "GET /PTITHCMS1L1/images/ptithcm-sv1.jpg HTTP/1.1" 200 19750
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:38:50 +0700] "GET /Cinema/index.jsp HTTP/1.1" 200 1830
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:38:50 +0700] "GET /Cinema/css/NewFile.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:38:50 +0700] "GET /Cinema/images/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Mar/2024:23:38:50 +0700] "GET /Cinema/images/poster.png HTTP/1.1" 304 -
